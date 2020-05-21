@@ -1,2 +1,0 @@
-# tc
-Teoria da Computação
